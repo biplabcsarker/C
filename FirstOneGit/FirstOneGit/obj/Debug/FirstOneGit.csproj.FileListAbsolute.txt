@@ -4,3 +4,6 @@ c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\bi
 c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\bin\Debug\FirstOneGit.pdb
 c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.exe
 c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.pdb
+E:\GIT REPOSITORY\Projects\C\FirstOneGit\FirstOneGit\bin\Debug\FirstOneGit.exe.config
+E:\GIT REPOSITORY\Projects\C\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.exe
+E:\GIT REPOSITORY\Projects\C\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.pdb
