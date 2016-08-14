@@ -1,0 +1,6 @@
+c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\bin\Debug\FirstOneGit.exe.config
+c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.csprojResolveAssemblyReference.cache
+c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\bin\Debug\FirstOneGit.exe
+c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\bin\Debug\FirstOneGit.pdb
+c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.exe
+c:\users\biplab\documents\visual studio 2013\Projects\FirstOneGit\FirstOneGit\obj\Debug\FirstOneGit.pdb
